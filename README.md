@@ -1,16 +1,13 @@
-### Hi there 👋
+---
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hrnkuru&show_icons=true">
 
-<!--
-**hrnkuru/hrnkuru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Merhaba, ben Harun Kuru! 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hrnkuru" alt="hrnkuru" /> </p>
 
-Here are some ideas to get you started:
+[![](https://img.shields.io/github/followers/hrnkuru?style=social)](https://www.github.com/hrnkuru)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hrnkuru/)
+[![Mail Badge](https://img.shields.io/badge/hrnkuru@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:hrnkuru@gmail.com)](mailto:hrnkuru@gmail.com)
+
+---
